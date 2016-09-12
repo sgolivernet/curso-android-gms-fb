@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mapas</string>
+    <string name="opciones">Opciones</string>
+    <string name="mover">Mover</string>
+    <string name="animar">Animar</string>
+    <string name="pos">Pos</string>
+</resources>

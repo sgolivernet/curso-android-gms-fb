@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent" >
+
+    <Button android:id="@+id/btnMarcador"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/marcador" />
+
+    <Button android:id="@+id/btnLineas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/btnMarcador"
+        android:text="@string/lineas" />
+
+    <Button android:id="@+id/btnPoligono"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/btnLineas"
+        android:text="@string/poligono" />
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.MapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/btnMarcador" />
+
+</RelativeLayout>

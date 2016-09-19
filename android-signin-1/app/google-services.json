@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "289263694695",
+    "project_id": "firebase-curso-android-signin"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289263694695:android:a22365a0e60d89b9",
+        "android_client_info": {
+          "package_name": "net.sgoliver.android.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289263694695-1m7ei7en7gei74pdkeo7cekmmakv0vsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.sgoliver.android.signin",
+            "certificate_hash": "C0D853F06D7D05EDF81246E93B838609B2FC1220"
+          }
+        },
+        {
+          "client_id": "289263694695-7gdrm77un06bt7jvgju2aqp7nh8gqm0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI-NB5De9NWV_TlSjNBg6iSAzox8jJbJA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

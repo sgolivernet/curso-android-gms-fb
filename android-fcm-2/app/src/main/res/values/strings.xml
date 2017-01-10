@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase CM</string>
+    <string name="token_de_registro">Token de Registro</string>
+</resources>

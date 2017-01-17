@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "499383357013",
+    "firebase_url": "https://curso-android-fcm.firebaseio.com",
+    "project_id": "curso-android-fcm",
+    "storage_bucket": "curso-android-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499383357013:android:12d40fc25782cd8d",
+        "android_client_info": {
+          "package_name": "net.sgoliver.android.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499383357013-ujqc2jgalmfl0g9lmiv34h7gkr7s3j83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.sgoliver.android.fcm",
+            "certificate_hash": "C0D853F06D7D05EDF81246E93B838609B2FC1220"
+          }
+        },
+        {
+          "client_id": "499383357013-e2f5uue81b27dengvvrp4p4jlk3l097f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBflB6HH7rTvXzrqoAiI2JbOZvyYvG5ApA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499383357013-e2f5uue81b27dengvvrp4p4jlk3l097f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
